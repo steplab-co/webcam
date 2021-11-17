@@ -1,5 +1,5 @@
 {
-  "name": "@uppy/webcam",
+  "name": "@steplab-co/webcam",
   "description": "Uppy plugin that takes photos or records videos using the device's camera.",
   "version": "2.0.4",
   "license": "MIT",
